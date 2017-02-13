@@ -2,4 +2,4 @@
 
 Materiales para un workshop sobre 'Ciencia reproducible con Rmarkdown'.
 
-Diapositivas: 
+Diapositivas: https://github.com/ecoinfAEET/rmarkdown_tutorial/raw/master/ReproducibleScience.pdf
